@@ -1,0 +1,24 @@
+{
+  "name": "buoi4ngonnguphattrienmoi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuanhiepwork/buoi4NgonNguPhatTrienMoi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/xuanhiepwork/buoi4NgonNguPhatTrienMoi/issues"
+  },
+  "homepage": "https://github.com/xuanhiepwork/buoi4NgonNguPhatTrienMoi#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
